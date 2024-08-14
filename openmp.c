@@ -4,8 +4,8 @@
 #include <omp.h>
 #include <math.h>
 
-#define TARGET_PASSWORD "12345678"
-#define TARGET_PASSWORD_LENGTH 8
+#define TARGET_PASSWORD "123456789"
+#define TARGET_PASSWORD_LENGTH 9
 
 const char dictionary[] = "0123456789";
 const int dictionarySize = sizeof(dictionary) -1;

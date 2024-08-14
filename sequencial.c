@@ -4,15 +4,15 @@
 #include <time.h>
 #include <math.h>
 
-#define TARGET_PASSWORD "12345678"
-#define TARGET_PASSWORD_LENGTH 8
+#define TARGET_PASSWORD "123456789"
+#define TARGET_PASSWORD_LENGTH 9
 
 const char dictionary[] = "0123456789";
 const int dictionarySize = sizeof(dictionary) -1;
 long long totalCombinations = 1LL << (TARGET_PASSWORD_LENGTH * 4);
 
 void showProgress(long long testedCombinations, double startTime, bool found) {
-  double elapsedTime = omp_get_wtime() - startTime;
+  double elapsedTime = time(NULL) - startTime;
   double progress = (double)testedCombinations / totalCombinations * 100.0;
   long long remaining = totalCombinations - testedCombinations;
   double estimatedTime = (remaining * elapsedTime) / testedCombinations;
@@ -31,7 +31,7 @@ void breakPassword() {
   bool found = false;
   char guessedPassword[] = "00000000";
   long long testedCombinations = 0;
-  double startTime = omp_get_wtime();
+  double startTime = time(NULL);
   double lastUpdateTime = startTime;
 
   for(long long i = 0; i < totalCombinations; i++) {
@@ -53,8 +53,8 @@ void breakPassword() {
       printf("Password found: %s\n", guessedPassword);
     }
     
-    double currentTime = omp_get_wtime();
-    if (currentTime - lastUpdateTime >= 1.0 && omp_get_thread_num() == 0) {
+    double currentTime = time(NULL);
+    if (currentTime - lastUpdateTime >= 1.0) {
       showProgress(testedCombinations, startTime, false);
       lastUpdateTime = currentTime;
     }
