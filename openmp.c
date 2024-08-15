@@ -4,35 +4,37 @@
 #include <omp.h>
 #include <math.h>
 
-#define TARGET_PASSWORD "123456789"
-#define TARGET_PASSWORD_LENGTH 9
+#define TARGET_PASSWORD "12345678"
+#define TARGET_PASSWORD_LENGTH 8
 
 const char dictionary[] = "0123456789";
 const int dictionarySize = sizeof(dictionary) -1;
 long long totalCombinations = 1LL << (TARGET_PASSWORD_LENGTH * 4);
 
-void showProgress(long long testedCombinations, double startTime, bool found) {
-  double elapsedTime = omp_get_wtime() - startTime;
+double startTime = 0.0;
+long long testedCombinations = 0;
+
+FILE *threadFile;
+FILE *sequencialFile;
+
+void showProgress(long long testedCombinations, double startTime, double endTime, int iterator) {
+  double elapsedTime = endTime - startTime;
   double progress = (double)testedCombinations / totalCombinations * 100.0;
   long long remaining = totalCombinations - testedCombinations;
   double estimatedTime = (remaining * elapsedTime) / testedCombinations;
 
-  printf("\n");
+  printf("Iteração: %d\n", iterator);
   printf("Progresso: %.2f%%\n", progress);
-  printf("Possibilidades testadas: %lld / %lld\n", testedCombinations, totalCombinations);
-  if (!found) {
-    printf("Tempo decorrido: %.2f segundos\n", elapsedTime);
-    printf("Tempo estimado para verificar todas as possibilidades: %.2f segundos\n", estimatedTime);
-  }
-  printf("\n");
+  printf("Tempo decorrido: %.2f segundos\n", elapsedTime);
+  printf("Possibilidades testadas: %lld / %lld\n\n", testedCombinations, totalCombinations);
+  printf("============\n\n");
 }
 
-void breakPassword() {
+void breakPasswordThread(int iterator) {
   bool found = false;
   char guessedPassword[] = "00000000";
-  long long testedCombinations = 0;
-  double startTime = omp_get_wtime();
   double lastUpdateTime = startTime;
+  startTime = omp_get_wtime();
 
   #pragma omp parallel for private(guessedPassword) shared(found, testedCombinations)
   for(long long i = 0; i < totalCombinations; i++) {
@@ -53,25 +55,66 @@ void breakPassword() {
     if (passwordMatch == 0) {
       #pragma omp critical
       {
+        double endTime = omp_get_wtime();
         found = true;
-        printf("Password found: %s\n", guessedPassword);
-      }
-    }
-    
-    double currentTime = omp_get_wtime();
-    if (currentTime - lastUpdateTime >= 1.0 && omp_get_thread_num() == 0) {
-      #pragma omp critical
-      {
-        showProgress(testedCombinations, startTime, false);
-        lastUpdateTime = currentTime;
+        printf("Password found using threads: %s\n\n", guessedPassword);
+        showProgress(testedCombinations, startTime, endTime, iterator);
+        fprintf(threadFile, "\n");
+        fprintf(threadFile, "Tempo: %.2f segundos\n", endTime - startTime);
+        fprintf(threadFile, "Encontrado em: %lld de %lld\n", totalCombinations - testedCombinations, totalCombinations);
+        fprintf(threadFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
+        fprintf(threadFile, "\n");
+        testedCombinations = 0;
       }
     }
   }
+}
 
-  showProgress(testedCombinations, startTime, true);
+void breakPasswordSequence(int iterator) {
+  bool found = false;
+  char guessedPassword[] = "00000000";
+  double lastUpdateTime = startTime;
+  startTime = omp_get_wtime();
+
+  for(long long i = 0; i < totalCombinations; i++) {
+    if (found) continue;
+
+    long long index = i;
+    for(int j = 0; j < TARGET_PASSWORD_LENGTH; j++) {
+      guessedPassword[j] = dictionary[index % dictionarySize];
+      index /= dictionarySize;
+    }
+
+    guessedPassword[TARGET_PASSWORD_LENGTH] = '\0';
+
+    testedCombinations++;
+
+    int passwordMatch = strcmp(guessedPassword, TARGET_PASSWORD);
+    if (passwordMatch == 0) {
+      double endTime = omp_get_wtime();
+      found = true;
+      printf("Password found by sequence: %s\n\n", guessedPassword);
+      showProgress(testedCombinations, startTime, endTime, iterator);
+      fprintf(sequencialFile, "\n");
+      fprintf(sequencialFile, "Tempo: %.2f segundos\n", endTime - startTime);
+      fprintf(sequencialFile, "Encontrado em: %lld\n", totalCombinations - testedCombinations);
+      fprintf(sequencialFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
+      fprintf(sequencialFile, "\n");
+      testedCombinations = 0;
+    }
+  }
 }
 
 int main() {
+  threadFile = fopen("threads.txt", "a");
+  sequencialFile = fopen("sequencial.txt", "a");
+
   omp_set_num_threads(12);
-  breakPassword();
+  for(int i = 1; i<= 5; i++) {
+    breakPasswordThread(i);
+  }
+
+  for(int i = 1; i<= 5; i++) {
+    breakPasswordSequence(i);
+  }
 }
