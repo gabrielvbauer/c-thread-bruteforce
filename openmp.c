@@ -4,7 +4,7 @@
 #include <omp.h>
 #include <math.h>
 
-#define TARGET_PASSWORD "12345678"
+#define TARGET_PASSWORD "88771797"
 #define TARGET_PASSWORD_LENGTH 8
 
 const char dictionary[] = "0123456789";
@@ -61,7 +61,7 @@ void breakPasswordThread(int iterator) {
         showProgress(testedCombinations, startTime, endTime, iterator);
         fprintf(threadFile, "\n");
         fprintf(threadFile, "Tempo: %.2f segundos\n", endTime - startTime);
-        fprintf(threadFile, "Encontrado em: %lld de %lld\n", totalCombinations - testedCombinations, totalCombinations);
+        fprintf(threadFile, "Encontrado em: %lld de %lld\n", testedCombinations, totalCombinations);
         fprintf(threadFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
         fprintf(threadFile, "\n");
         testedCombinations = 0;
@@ -97,7 +97,7 @@ void breakPasswordSequence(int iterator) {
       showProgress(testedCombinations, startTime, endTime, iterator);
       fprintf(sequencialFile, "\n");
       fprintf(sequencialFile, "Tempo: %.2f segundos\n", endTime - startTime);
-      fprintf(sequencialFile, "Encontrado em: %lld\n", totalCombinations - testedCombinations);
+      fprintf(threadFile, "Encontrado em: %lld de %lld\n", testedCombinations, totalCombinations);
       fprintf(sequencialFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
       fprintf(sequencialFile, "\n");
       testedCombinations = 0;
@@ -110,11 +110,11 @@ int main() {
   sequencialFile = fopen("sequencial.txt", "a");
 
   omp_set_num_threads(12);
-  for(int i = 1; i<= 5; i++) {
+  for(int i = 1; i<= 20; i++) {
     breakPasswordThread(i);
   }
 
-  for(int i = 1; i<= 5; i++) {
+  for(int i = 1; i<= 20; i++) {
     breakPasswordSequence(i);
   }
 }
