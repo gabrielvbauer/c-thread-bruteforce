@@ -41,8 +41,10 @@ void breakPasswordThread(int iterator) {
   double lastUpdateTime = startTime;
   startTime = omp_get_wtime();
 
-  #pragma omp parallel for private(guessedPassword) shared(found, testedCombinations)
-  for(long long i = 0; i < totalCombinations; i++) {
+  #pragma omp parallel private(guessedPassword) shared(found, testedCombinations)
+  {
+    #pragma omp for schedule(static)
+    for(long long i = 0; i < totalCombinations; i++) {
     if (found) continue;
 
     long long index = i;
@@ -56,14 +58,14 @@ void breakPasswordThread(int iterator) {
     /*
       DEBUG MODE
     */
-    double currentTime = omp_get_wtime();
-    if (currentTime - lastUpdateTime >= 1.0 && omp_get_thread_num() == 0) {
-      #pragma omp critical
-      {
-        debug(iterator);
-      }
-      lastUpdateTime = currentTime;
-    }
+    // double currentTime = omp_get_wtime();
+    // if (currentTime - lastUpdateTime >= 1.0 && omp_get_thread_num() == 0) {
+    //   #pragma omp critical
+    //   {
+    //     debug(iterator);
+    //   }
+    //   lastUpdateTime = currentTime;
+    // }
 
     #pragma omp atomic
     testedCombinations++;
@@ -84,6 +86,7 @@ void breakPasswordThread(int iterator) {
         testedCombinations = 0;
       }
     }
+  }  
   }
 }
 
