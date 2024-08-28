@@ -4,8 +4,8 @@
 #include <omp.h>
 #include <math.h>
 
-#define TARGET_PASSWORD "12345678"
-#define TARGET_PASSWORD_LENGTH 8
+#define TARGET_PASSWORD "999999999"
+#define TARGET_PASSWORD_LENGTH 9
 
 const char dictionary[] = "0123456789";
 // const char dictionary[] = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
@@ -26,7 +26,7 @@ void showProgress(long long testedCombinations, double startTime, double endTime
 
   printf("Iteração: %d\n", iterator);
   printf("Progresso: %.2f%%\n", progress);
-  printf("Tempo decorrido: %.2f segundos\n", elapsedTime);
+  printf("Tempo decorrido: %.10f segundos\n", elapsedTime);
   printf("Possibilidades testadas: %lld / %lld\n\n", testedCombinations, totalCombinations);
   printf("============\n\n");
 }
@@ -79,7 +79,7 @@ void breakPasswordThread(int iterator) {
         printf("Password found using threads: %s\n\n", guessedPassword);
         showProgress(testedCombinations, startTime, endTime, iterator);
         fprintf(threadFile, "\n");
-        fprintf(threadFile, "Tempo: %.2f segundos\n", endTime - startTime);
+        fprintf(threadFile, "Tempo: %.10f segundos\n", endTime - startTime);
         fprintf(threadFile, "Encontrado em: %lld de %lld\n", testedCombinations, totalCombinations);
         fprintf(threadFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
         fprintf(threadFile, "\n");
@@ -125,7 +125,7 @@ void breakPasswordSequence(int iterator) {
       printf("Password found by sequence: %s\n\n", guessedPassword);
       showProgress(testedCombinations, startTime, endTime, iterator);
       fprintf(sequencialFile, "\n");
-      fprintf(sequencialFile, "Tempo: %.2f segundos\n", endTime - startTime);
+      fprintf(sequencialFile, "Tempo: %.10f segundos\n", endTime - startTime);
       fprintf(sequencialFile, "Encontrado em: %lld de %lld\n", testedCombinations, totalCombinations);
       fprintf(sequencialFile, "Porcentagem de tentativas: %.2f%% \n", (double)testedCombinations / totalCombinations * 100.0);
       fprintf(sequencialFile, "\n");

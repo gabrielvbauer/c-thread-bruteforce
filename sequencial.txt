@@ -1,0 +1,800 @@
+
+Tempo: 0.0000005710 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005510 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005910 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005010 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000006310 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005210 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000006310 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005610 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005310 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005200 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005210 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000006010 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000006110 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005510 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005210 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005210 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005110 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005110 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005410 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000005110 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000047290 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046290 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045480 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045590 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045380 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045880 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045180 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045790 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046190 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045680 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045580 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046590 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046090 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046280 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045990 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045890 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000045680 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000048190 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046590 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000046980 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000463370 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000462960 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000456550 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000456150 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000460550 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000457550 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000456650 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000467970 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000460660 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000463260 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000463260 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000462960 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000456650 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000457050 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000457460 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001280290 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000463060 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000458860 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000456250 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000454840 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004603180 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004594860 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0005345610 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004622720 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0005885170 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004544780 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004566010 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004569820 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0005029480 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004598070 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004608790 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004794440 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004407920 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004324160 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004195520 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004592360 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004356020 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004179690 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004225380 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0004179690 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0051519110 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0053619590 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0053249560 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044053920 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044181750 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044615460 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044572680 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044094690 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044542820 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044310790 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0045030940 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044647730 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044224430 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044417890 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044558350 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044376310 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044659840 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0043991700 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044870230 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0044471690 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0491510950 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0461214570 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0471625080 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0464021800 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0465224860 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0463199060 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0460253580 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0462947030 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0450223440 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0454202290 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0451354600 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0451250620 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0453592540 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0452291540 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0451403520 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0464770590 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0460406650 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0459424740 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0459337980 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0460143760 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4424239060 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4378747270 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4468086260 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4384981850 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4438050310 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4373905060 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4422278280 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4444623770 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4377029800 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4368444280 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4390471310 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4432657990 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4463773050 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4399204790 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4432337800 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4439816390 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4361557340 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4438605110 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4370951470 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.4386484410 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5490746130 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5004711630 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.4932977920 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5083218560 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5397556970 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5110932740 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5089247910 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5398207020 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5786760050 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5484482090 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5797601250 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5552985740 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5330838930 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5300147360 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5361960120 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5092096890 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.4981337770 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5449482220 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5272546220 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 4.5312397140 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+

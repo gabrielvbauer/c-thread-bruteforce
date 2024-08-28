@@ -1,0 +1,800 @@
+
+Tempo: 0.0004430660 segundos
+Encontrado em: 7 de 10
+Porcentagem de tentativas: 70.00% 
+
+
+Tempo: 0.0000526530 segundos
+Encontrado em: 8 de 10
+Porcentagem de tentativas: 80.00% 
+
+
+Tempo: 0.0000009960 segundos
+Encontrado em: 9 de 10
+Porcentagem de tentativas: 90.00% 
+
+
+Tempo: 0.0000009670 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000009670 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000009860 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000010060 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000039020 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000039420 segundos
+Encontrado em: 9 de 10
+Porcentagem de tentativas: 90.00% 
+
+
+Tempo: 0.0000009570 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000011470 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000010670 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000865660 segundos
+Encontrado em: 6 de 10
+Porcentagem de tentativas: 60.00% 
+
+
+Tempo: 0.0000011720 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000029460 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000010930 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000012030 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000012030 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000009420 segundos
+Encontrado em: 10 de 10
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000010930 segundos
+Encontrado em: 9 de 10
+Porcentagem de tentativas: 90.00% 
+
+
+Tempo: 0.0055205290 segundos
+Encontrado em: 75 de 100
+Porcentagem de tentativas: 75.00% 
+
+
+Tempo: 0.0000022650 segundos
+Encontrado em: 64 de 100
+Porcentagem de tentativas: 64.00% 
+
+
+Tempo: 0.0000855910 segundos
+Encontrado em: 51 de 100
+Porcentagem de tentativas: 51.00% 
+
+
+Tempo: 0.0000022050 segundos
+Encontrado em: 77 de 100
+Porcentagem de tentativas: 77.00% 
+
+
+Tempo: 0.0000857900 segundos
+Encontrado em: 83 de 100
+Porcentagem de tentativas: 83.00% 
+
+
+Tempo: 0.0000850470 segundos
+Encontrado em: 58 de 100
+Porcentagem de tentativas: 58.00% 
+
+
+Tempo: 0.0001534760 segundos
+Encontrado em: 83 de 100
+Porcentagem de tentativas: 83.00% 
+
+
+Tempo: 0.0001772790 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000855790 segundos
+Encontrado em: 40 de 100
+Porcentagem de tentativas: 40.00% 
+
+
+Tempo: 0.0001730120 segundos
+Encontrado em: 100 de 100
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000654710 segundos
+Encontrado em: 83 de 100
+Porcentagem de tentativas: 83.00% 
+
+
+Tempo: 0.0002160130 segundos
+Encontrado em: 92 de 100
+Porcentagem de tentativas: 92.00% 
+
+
+Tempo: 0.0000852990 segundos
+Encontrado em: 84 de 100
+Porcentagem de tentativas: 84.00% 
+
+
+Tempo: 0.0000824840 segundos
+Encontrado em: 67 de 100
+Porcentagem de tentativas: 67.00% 
+
+
+Tempo: 0.0000902500 segundos
+Encontrado em: 57 de 100
+Porcentagem de tentativas: 57.00% 
+
+
+Tempo: 0.0001957660 segundos
+Encontrado em: 75 de 100
+Porcentagem de tentativas: 75.00% 
+
+
+Tempo: 0.0001127760 segundos
+Encontrado em: 76 de 100
+Porcentagem de tentativas: 76.00% 
+
+
+Tempo: 0.0000897720 segundos
+Encontrado em: 75 de 100
+Porcentagem de tentativas: 75.00% 
+
+
+Tempo: 0.0000884700 segundos
+Encontrado em: 83 de 100
+Porcentagem de tentativas: 83.00% 
+
+
+Tempo: 0.0001666520 segundos
+Encontrado em: 42 de 100
+Porcentagem de tentativas: 42.00% 
+
+
+Tempo: 0.0045726880 segundos
+Encontrado em: 886 de 1000
+Porcentagem de tentativas: 88.60% 
+
+
+Tempo: 0.0000603370 segundos
+Encontrado em: 792 de 1000
+Porcentagem de tentativas: 79.20% 
+
+
+Tempo: 0.0001365700 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001729150 segundos
+Encontrado em: 916 de 1000
+Porcentagem de tentativas: 91.60% 
+
+
+Tempo: 0.0000673980 segundos
+Encontrado em: 735 de 1000
+Porcentagem de tentativas: 73.50% 
+
+
+Tempo: 0.0001794870 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001845460 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000441530 segundos
+Encontrado em: 760 de 1000
+Porcentagem de tentativas: 76.00% 
+
+
+Tempo: 0.0001936060 segundos
+Encontrado em: 751 de 1000
+Porcentagem de tentativas: 75.10% 
+
+
+Tempo: 0.0001091450 segundos
+Encontrado em: 598 de 1000
+Porcentagem de tentativas: 59.80% 
+
+
+Tempo: 0.0001293030 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0000983050 segundos
+Encontrado em: 900 de 1000
+Porcentagem de tentativas: 90.00% 
+
+
+Tempo: 0.0000558670 segundos
+Encontrado em: 905 de 1000
+Porcentagem de tentativas: 90.50% 
+
+
+Tempo: 0.0000983360 segundos
+Encontrado em: 851 de 1000
+Porcentagem de tentativas: 85.10% 
+
+
+Tempo: 0.0001516450 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001739170 segundos
+Encontrado em: 1000 de 1000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0003368430 segundos
+Encontrado em: 771 de 1000
+Porcentagem de tentativas: 77.10% 
+
+
+Tempo: 0.0001864520 segundos
+Encontrado em: 499 de 1000
+Porcentagem de tentativas: 49.90% 
+
+
+Tempo: 0.0001677440 segundos
+Encontrado em: 750 de 1000
+Porcentagem de tentativas: 75.00% 
+
+
+Tempo: 0.0000184160 segundos
+Encontrado em: 716 de 1000
+Porcentagem de tentativas: 71.60% 
+
+
+Tempo: 0.0061110760 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001384970 segundos
+Encontrado em: 9990 de 10000
+Porcentagem de tentativas: 99.90% 
+
+
+Tempo: 0.0002134170 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001848540 segundos
+Encontrado em: 8701 de 10000
+Porcentagem de tentativas: 87.01% 
+
+
+Tempo: 0.0001955170 segundos
+Encontrado em: 7944 de 10000
+Porcentagem de tentativas: 79.44% 
+
+
+Tempo: 0.0001389110 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001379580 segundos
+Encontrado em: 9990 de 10000
+Porcentagem de tentativas: 99.90% 
+
+
+Tempo: 0.0001381390 segundos
+Encontrado em: 9999 de 10000
+Porcentagem de tentativas: 99.99% 
+
+
+Tempo: 0.0001384990 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001381590 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001383100 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001382590 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001375180 segundos
+Encontrado em: 9951 de 10000
+Porcentagem de tentativas: 99.51% 
+
+
+Tempo: 0.0001240430 segundos
+Encontrado em: 8707 de 10000
+Porcentagem de tentativas: 87.07% 
+
+
+Tempo: 0.0002675300 segundos
+Encontrado em: 10000 de 10000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0001928720 segundos
+Encontrado em: 7998 de 10000
+Porcentagem de tentativas: 79.98% 
+
+
+Tempo: 0.0001558090 segundos
+Encontrado em: 8250 de 10000
+Porcentagem de tentativas: 82.50% 
+
+
+Tempo: 0.0001303130 segundos
+Encontrado em: 9157 de 10000
+Porcentagem de tentativas: 91.57% 
+
+
+Tempo: 0.0001296770 segundos
+Encontrado em: 9107 de 10000
+Porcentagem de tentativas: 91.07% 
+
+
+Tempo: 0.0002237680 segundos
+Encontrado em: 9137 de 10000
+Porcentagem de tentativas: 91.37% 
+
+
+Tempo: 0.0056535160 segundos
+Encontrado em: 84245 de 100000
+Porcentagem de tentativas: 84.25% 
+
+
+Tempo: 0.0010580360 segundos
+Encontrado em: 71215 de 100000
+Porcentagem de tentativas: 71.21% 
+
+
+Tempo: 0.0013811300 segundos
+Encontrado em: 91319 de 100000
+Porcentagem de tentativas: 91.32% 
+
+
+Tempo: 0.0013240200 segundos
+Encontrado em: 83211 de 100000
+Porcentagem de tentativas: 83.21% 
+
+
+Tempo: 0.0018420950 segundos
+Encontrado em: 99727 de 100000
+Porcentagem de tentativas: 99.73% 
+
+
+Tempo: 0.0015466070 segundos
+Encontrado em: 95222 de 100000
+Porcentagem de tentativas: 95.22% 
+
+
+Tempo: 0.0019531040 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0015803710 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0014628080 segundos
+Encontrado em: 91995 de 100000
+Porcentagem de tentativas: 92.00% 
+
+
+Tempo: 0.0013335490 segundos
+Encontrado em: 92495 de 100000
+Porcentagem de tentativas: 92.50% 
+
+
+Tempo: 0.0013784330 segundos
+Encontrado em: 99864 de 100000
+Porcentagem de tentativas: 99.86% 
+
+
+Tempo: 0.0013047450 segundos
+Encontrado em: 92802 de 100000
+Porcentagem de tentativas: 92.80% 
+
+
+Tempo: 0.0015320300 segundos
+Encontrado em: 92005 de 100000
+Porcentagem de tentativas: 92.01% 
+
+
+Tempo: 0.0012063720 segundos
+Encontrado em: 83772 de 100000
+Porcentagem de tentativas: 83.77% 
+
+
+Tempo: 0.0013702090 segundos
+Encontrado em: 99598 de 100000
+Porcentagem de tentativas: 99.60% 
+
+
+Tempo: 0.0013676140 segundos
+Encontrado em: 96906 de 100000
+Porcentagem de tentativas: 96.91% 
+
+
+Tempo: 0.0014449080 segundos
+Encontrado em: 96954 de 100000
+Porcentagem de tentativas: 96.95% 
+
+
+Tempo: 0.0012843790 segundos
+Encontrado em: 91168 de 100000
+Porcentagem de tentativas: 91.17% 
+
+
+Tempo: 0.0013857150 segundos
+Encontrado em: 100000 de 100000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0013560900 segundos
+Encontrado em: 95380 de 100000
+Porcentagem de tentativas: 95.38% 
+
+
+Tempo: 0.0195078860 segundos
+Encontrado em: 992436 de 1000000
+Porcentagem de tentativas: 99.24% 
+
+
+Tempo: 0.0137210010 segundos
+Encontrado em: 958754 de 1000000
+Porcentagem de tentativas: 95.88% 
+
+
+Tempo: 0.0143436040 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0134590170 segundos
+Encontrado em: 942729 de 1000000
+Porcentagem de tentativas: 94.27% 
+
+
+Tempo: 0.0136727430 segundos
+Encontrado em: 970159 de 1000000
+Porcentagem de tentativas: 97.02% 
+
+
+Tempo: 0.0139054580 segundos
+Encontrado em: 974274 de 1000000
+Porcentagem de tentativas: 97.43% 
+
+
+Tempo: 0.0142276730 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0139644810 segundos
+Encontrado em: 974879 de 1000000
+Porcentagem de tentativas: 97.49% 
+
+
+Tempo: 0.0140620110 segundos
+Encontrado em: 998429 de 1000000
+Porcentagem de tentativas: 99.84% 
+
+
+Tempo: 0.0138141540 segundos
+Encontrado em: 977904 de 1000000
+Porcentagem de tentativas: 97.79% 
+
+
+Tempo: 0.0140402960 segundos
+Encontrado em: 992055 de 1000000
+Porcentagem de tentativas: 99.21% 
+
+
+Tempo: 0.0137828950 segundos
+Encontrado em: 975790 de 1000000
+Porcentagem de tentativas: 97.58% 
+
+
+Tempo: 0.0139992650 segundos
+Encontrado em: 983169 de 1000000
+Porcentagem de tentativas: 98.32% 
+
+
+Tempo: 0.0141848820 segundos
+Encontrado em: 996681 de 1000000
+Porcentagem de tentativas: 99.67% 
+
+
+Tempo: 0.0147029420 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0148461500 segundos
+Encontrado em: 1000000 de 1000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.0141863180 segundos
+Encontrado em: 972778 de 1000000
+Porcentagem de tentativas: 97.28% 
+
+
+Tempo: 0.0143552280 segundos
+Encontrado em: 982255 de 1000000
+Porcentagem de tentativas: 98.23% 
+
+
+Tempo: 0.0099261300 segundos
+Encontrado em: 655020 de 1000000
+Porcentagem de tentativas: 65.50% 
+
+
+Tempo: 0.0183017590 segundos
+Encontrado em: 832964 de 1000000
+Porcentagem de tentativas: 83.30% 
+
+
+Tempo: 0.1401846250 segundos
+Encontrado em: 9672003 de 10000000
+Porcentagem de tentativas: 96.72% 
+
+
+Tempo: 0.1396831320 segundos
+Encontrado em: 9962437 de 10000000
+Porcentagem de tentativas: 99.62% 
+
+
+Tempo: 0.1414264330 segundos
+Encontrado em: 9988666 de 10000000
+Porcentagem de tentativas: 99.89% 
+
+
+Tempo: 0.1375750790 segundos
+Encontrado em: 9665861 de 10000000
+Porcentagem de tentativas: 96.66% 
+
+
+Tempo: 0.1377492340 segundos
+Encontrado em: 9700711 de 10000000
+Porcentagem de tentativas: 97.01% 
+
+
+Tempo: 0.1425030360 segundos
+Encontrado em: 9898456 de 10000000
+Porcentagem de tentativas: 98.98% 
+
+
+Tempo: 0.1352504080 segundos
+Encontrado em: 9143221 de 10000000
+Porcentagem de tentativas: 91.43% 
+
+
+Tempo: 0.1422165100 segundos
+Encontrado em: 9943683 de 10000000
+Porcentagem de tentativas: 99.44% 
+
+
+Tempo: 0.1421642530 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.1414300160 segundos
+Encontrado em: 9998266 de 10000000
+Porcentagem de tentativas: 99.98% 
+
+
+Tempo: 0.1387954850 segundos
+Encontrado em: 9829572 de 10000000
+Porcentagem de tentativas: 98.30% 
+
+
+Tempo: 0.1398544900 segundos
+Encontrado em: 9954895 de 10000000
+Porcentagem de tentativas: 99.55% 
+
+
+Tempo: 0.1410628590 segundos
+Encontrado em: 10000000 de 10000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 0.1363888490 segundos
+Encontrado em: 9483997 de 10000000
+Porcentagem de tentativas: 94.84% 
+
+
+Tempo: 0.1418311470 segundos
+Encontrado em: 9835364 de 10000000
+Porcentagem de tentativas: 98.35% 
+
+
+Tempo: 0.1390778220 segundos
+Encontrado em: 9870210 de 10000000
+Porcentagem de tentativas: 98.70% 
+
+
+Tempo: 0.1372594720 segundos
+Encontrado em: 9791429 de 10000000
+Porcentagem de tentativas: 97.91% 
+
+
+Tempo: 0.1405059710 segundos
+Encontrado em: 9994376 de 10000000
+Porcentagem de tentativas: 99.94% 
+
+
+Tempo: 0.1393329670 segundos
+Encontrado em: 9895170 de 10000000
+Porcentagem de tentativas: 98.95% 
+
+
+Tempo: 0.1403521760 segundos
+Encontrado em: 9987043 de 10000000
+Porcentagem de tentativas: 99.87% 
+
+
+Tempo: 1.3255715160 segundos
+Encontrado em: 92933335 de 100000000
+Porcentagem de tentativas: 92.93% 
+
+
+Tempo: 1.4358971440 segundos
+Encontrado em: 99575774 de 100000000
+Porcentagem de tentativas: 99.58% 
+
+
+Tempo: 1.2819890310 segundos
+Encontrado em: 90216357 de 100000000
+Porcentagem de tentativas: 90.22% 
+
+
+Tempo: 1.2848635420 segundos
+Encontrado em: 90795678 de 100000000
+Porcentagem de tentativas: 90.80% 
+
+
+Tempo: 1.2820301310 segundos
+Encontrado em: 91049776 de 100000000
+Porcentagem de tentativas: 91.05% 
+
+
+Tempo: 1.2813378990 segundos
+Encontrado em: 90850229 de 100000000
+Porcentagem de tentativas: 90.85% 
+
+
+Tempo: 1.2950808700 segundos
+Encontrado em: 91857183 de 100000000
+Porcentagem de tentativas: 91.86% 
+
+
+Tempo: 1.2817475390 segundos
+Encontrado em: 90197400 de 100000000
+Porcentagem de tentativas: 90.20% 
+
+
+Tempo: 1.2951023280 segundos
+Encontrado em: 91503610 de 100000000
+Porcentagem de tentativas: 91.50% 
+
+
+Tempo: 1.2742761110 segundos
+Encontrado em: 89367008 de 100000000
+Porcentagem de tentativas: 89.37% 
+
+
+Tempo: 1.3168330070 segundos
+Encontrado em: 92805403 de 100000000
+Porcentagem de tentativas: 92.81% 
+
+
+Tempo: 1.4529712430 segundos
+Encontrado em: 100000000 de 100000000
+Porcentagem de tentativas: 100.00% 
+
+
+Tempo: 1.4307978750 segundos
+Encontrado em: 99953479 de 100000000
+Porcentagem de tentativas: 99.95% 
+
+
+Tempo: 1.3118637730 segundos
+Encontrado em: 92887402 de 100000000
+Porcentagem de tentativas: 92.89% 
+
+
+Tempo: 1.2883477340 segundos
+Encontrado em: 91359250 de 100000000
+Porcentagem de tentativas: 91.36% 
+
+
+Tempo: 1.2835018670 segundos
+Encontrado em: 90068534 de 100000000
+Porcentagem de tentativas: 90.07% 
+
+
+Tempo: 1.2935723580 segundos
+Encontrado em: 91452714 de 100000000
+Porcentagem de tentativas: 91.45% 
+
+
+Tempo: 1.3169434780 segundos
+Encontrado em: 93639527 de 100000000
+Porcentagem de tentativas: 93.64% 
+
+
+Tempo: 1.3586575040 segundos
+Encontrado em: 98275305 de 100000000
+Porcentagem de tentativas: 98.28% 
+
+
+Tempo: 1.3852156010 segundos
+Encontrado em: 99859532 de 100000000
+Porcentagem de tentativas: 99.86% 
+
